@@ -1,0 +1,9 @@
+pessoa(maria, 54).
+pessoa(josé, 60).
+pessoa(ivo, 45).
+pessoa(beatriz, 15).
+pessoa(ivan, 43).
+pessoa(joaquim, 40).
+pessoa(elisa, 20).
+pessoa(manuel, 38).
+pessoa(ana, 20).
